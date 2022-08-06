@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Alami Login</name>
+   <name>AlamiRegister</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>d34471dd-6a34-4f57-8936-ef4d1c7bbb8a</testCaseGuid>
