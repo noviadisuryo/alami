@@ -2,10 +2,6 @@
 
 Simple Web Automation Test Framework using Katalon Studio, with automated CI using Github Action
 
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
 ### Note on the Result
 
 * Task #1 Automating Registrasi Pemberi Dana - DONE
@@ -15,7 +11,7 @@ These instructions will get you a copy of the project up and running on your loc
   Menemukan jalan buntu, karena baru support yahoo dan gmail untuk mengambil verifikasi data, akan tetapi tidak bisa diexecute jika menggunakan email yang dirandomize.
 
 * Task #3 Automating Login Flow - DONE
-  Menggunakan simple javascript code, untuk membuat email randomizer karena untuk email yang sudah terdaftar tidak dapat digunakan untuk mendaftar kembali.
+ Simple user happy flow, login and then logout
 
 
 ### Penggunaan
